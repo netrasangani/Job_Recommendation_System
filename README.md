@@ -39,3 +39,6 @@ Empowering job seekers with AI-driven job matching, skill-building resources, an
 Our Frontend would look something like this when the project is complete:
 
 
+
+https://github.com/user-attachments/assets/d461fafa-aeee-4006-96da-a33b221ac193
+
